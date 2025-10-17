@@ -1,4 +1,5 @@
 ## Welcome to Git!
 
+- Yo, Johnny here!
 - This is coming from 'dev-thomas'
-i'm adding this from 'feature-branch'
+- I'm adding this from 'feature-branch'
